@@ -1,0 +1,4 @@
+ARM is a RISC machine. it's a more dumbed-down and simplified version of a CISC machine. RISC is cheaper than CISC. x86 is CISC
+ARM assembly is written in a two or three component syntax. examples of such are:
+
+    ldr     r0, [r1] 
